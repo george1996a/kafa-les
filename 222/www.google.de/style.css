@@ -1,0 +1,18 @@
+
+video {
+  width: 50% !important;
+  height: auto !important;
+  margin: 0 auto;
+  display: block;
+}
+
+
+
+body {
+
+  width: 70%; /*or whatever % you prefer*/
+    margin: 0 auto;
+    top: 0%;
+    display: block;
+
+}
